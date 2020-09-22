@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(6, 94, 94, 0.30);
+ 
+     }
+h1 {
+    text-align: center;
+    border: solid  blue;
+    background-color: seagreen;
+   }
+nav ul {
+    background-color:whitesmoke;
+    border-radius: 4px;
+font-size: larger;  
+
+}
+nav li {
+    display: inline;
+
+     border-color: black;
+     
+         
+        background-color: black;
+        color : white;
+        text-align: center;
+        margin-right: 240px;
+       }
+h2 {
+text-align: center;
+font-size: larger;
+color: rgba(151, 32, 32, 1.0);
+}
+img {
+        width: 500px;
+    }
+
