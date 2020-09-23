@@ -1,4 +1,4 @@
-alert ('hello and welcome to ask trip site 0')
+alert ('hello and welcome to ask trip site ')
 var x = prompt ('if you want to ask trip now please inter 1 , if not please inter 0');
 if  (x ==1) {
               var y = prompt ('What is the distance between your location and the city center ?');
